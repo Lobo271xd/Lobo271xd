@@ -1,6 +1,6 @@
 ***Bienvenido a mi perfil 💙
 
-Meu nome é Hugo Daniel franco da Silva
+Meu nome é Hugo Daniel 
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -8,7 +8,7 @@ Meu nome é Hugo Daniel franco da Silva
 
 ### Você pode entrar em contato comigo :mailbox
 
-hugofrancodasilva25@gmail.com
+00001079997477sp@al.educacao.sp.gov.br
 
 @hugo_danielxd252
 
